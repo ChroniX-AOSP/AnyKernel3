@@ -4,10 +4,9 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xcalibur
-kernel.compiler=LLVM 18.1.3
-kernel.made=Joker
-message.word=Thanks for choosing Xcalibur
+kernel.string=[鞍馬]-Kurama[SukiSu]
+kernel.made=chronix
+message.word=Ready , Gooo....
 do.devicecheck=1
 do.modules=0
 do.systemless=1
